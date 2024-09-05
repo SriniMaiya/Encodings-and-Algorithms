@@ -147,7 +147,6 @@ def retrieve_data(binary_encoding, decode_table: dict[str, str]):
 
 
 if __name__ == "__main__":
-    from itertools import zip_longest
 
     # data = """God, grant me the serenity to accept the \
     #     things I cannot change, the courage to change the things I can,\
